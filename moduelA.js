@@ -1,0 +1,2 @@
+let renderA=(function(){}
+)()
